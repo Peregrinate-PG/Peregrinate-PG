@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](http://academicpages.github.io/files/CV.pdf) to view my CV.
+Click [here](http://peregrinate-pg.github.io/Peregrinate-PG/files/CV.pdf) to view my CV.
