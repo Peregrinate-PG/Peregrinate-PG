@@ -11,10 +11,10 @@ I am currently an undergraduate student at [Yingcai Honors College](https://www.
 
 My research interests primarily lie in network evolutionary game theory and its interdisciplinary applications with computer science. I aim to build a strong theoretical foundation while exploring the practical potential of evolutionary game theory.
 
-Welcome like-minded friends to contact me at any time via [email](lxinuestc@gmail.com) for potential collaboration.
+Welcome like-minded friends to contact me at any time via [email](mailto:lxinuestc@gmail.com) for potential collaboration.
 
 News
 ======
 
--[July 2025] Our journal paper, [*“Memory-driven Q-learning model for cooperation in snowdrift game with dynamic behavioral types”*](https://www.sciencedirect.com/science/article/pii/S0307904X25003889), where I am the first author, has been published in [*Applied Mathematical Modelling*](https://www.sciencedirect.com/journal/applied-mathematical-modelling).
+- [July 2025] Our journal paper, [*“Memory-driven Q-learning model for cooperation in snowdrift game with dynamic behavioral types”*](https://www.sciencedirect.com/science/article/pii/S0307904X25003889), where I am the first author, has been published in [*Applied Mathematical Modelling*](https://www.sciencedirect.com/journal/applied-mathematical-modelling).
 
