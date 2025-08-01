@@ -2,7 +2,7 @@
 title: "Memory-driven Q-learning model for cooperation in snowdrift game with dynamic behavioral types"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-07-14-paper-1
+permalink: /publication/2025-07-14-AMMODpaper-1
 excerpt: 'We innovate the Q-learning model to study the transformation of agents’ behavior types and introduce the memory factor into the calculation of rewards, discovering the importance of immediate rewards in promoting cooperation in evolutionary game.'
 date: 2025-07-14
 venue: 'July 14'
